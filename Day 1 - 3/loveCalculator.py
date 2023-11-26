@@ -1,7 +1,6 @@
 name1 = input()
 name2 = input()
 
-
 names = (name1 + name2).upper()
 
 love_count = names.count("L") + names.count("O") + names.count("V") + names.count("E")
